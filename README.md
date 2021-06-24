@@ -5,14 +5,15 @@ Authors: Thorir Mar Ingolfsson, Xiaying Wang, Michael Hersche, Alessio Burrello,
 # EEG-TCN
 This project provides the experimental environment used to produce the results reported in the paper *ECG-TCN: Wearable Cardiac Arrhythmia Detection with a Temporal Convolutional Network* available on [arXiv](https://arxiv.org/abs/2103.13740). If you find this work useful in your research, please cite
 ```
-@misc{ingolfsson2021ecgtcn,
-      title={ECG-TCN: Wearable Cardiac Arrhythmia Detection with a Temporal Convolutional Network}, 
-      author={Thorir Mar Ingolfsson and Xiaying Wang and Michael Hersche and Alessio Burrello and Lukas Cavigelli and Luca Benini},
-      booktitle={2021 3rd IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)}, 
-      year={2021},
-      volume={},
-      number={}
-}
+@INPROCEEDINGS{9458520,
+  author={Ingolfsson, Thorir Mar and Hersche, Xiaying Wang Michael and Burrello, Alessio and Cavigelli, Lukas and Benini, Luca},
+  booktitle={2021 IEEE 3rd International Conference on Artificial Intelligence Circuits and Systems (AICAS)}, 
+  title={ECG-TCN: Wearable Cardiac Arrhythmia Detection with a Temporal Convolutional Network}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={1-4},
+  doi={10.1109/AICAS51828.2021.9458520}}
 
 ```
 
